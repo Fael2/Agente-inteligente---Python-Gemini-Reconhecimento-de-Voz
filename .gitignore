@@ -1,0 +1,13 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.mp3
+*.log
+*.tmp
+*.bak
+
+# Credenciais
+.env
