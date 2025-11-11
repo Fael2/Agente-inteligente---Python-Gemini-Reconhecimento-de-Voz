@@ -27,11 +27,15 @@ Este projeto implementa um **assistente inteligente** que:
     .venv\Scripts\activate
 
 2. Instale as dependências:
+    ```bash
     pip install -r requirements.txt
 
+
 3. Configure sua chave da API Gemini::
-    setx GEMINI_API_KEY "sua_chave_aqui"
+   ```bash 
+   setx GEMINI_API_KEY "sua_chave_aqui"
 
 4. Execute o agente:
+    ```bash 
     python agent_gemini_final_v2.py
 
